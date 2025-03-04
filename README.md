@@ -1,4 +1,4 @@
-# Sistema-Bancario
+# Sistema Bancario
 Sistema Bancário (Suzano Python Developer)
 
 Versão 1.0
